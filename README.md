@@ -1,6 +1,6 @@
-# exstreamlit 
+# ex.streamlit
 
-First time with streamlit 
+Test test
 
 ## Demo App
 
